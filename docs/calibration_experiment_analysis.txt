@@ -1,0 +1,4 @@
+1. Each transcription repressor was induced to the maximum level
+2. The total fluorescence was measured, after background subtracting the total fluorescence from each cell in the absence of induction
+3. The cells were lysed and the protein purified, and quantified in nanograms
+   
